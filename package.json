@@ -1,0 +1,1 @@
+{\n  "name": "funtoki-live",\n  "version": "1.0.0",\n  "description": "Description of the funtoki-live project",\n  "main": "index.js",\n  "scripts": {\n    "test": "echo 'Error: no test specified' && exit 1"\n  },\n  "author": "h96182387-cell",\n  "license": "ISC",\n  "dependencies": {},\n  "devDependencies": {}\n}
